@@ -3,9 +3,10 @@
 ![](meme.png)
 
 ### About my meme:
-My inspiration for my meme came from the amount of assignments a have due next week (21/3/22),
-there's **LOTS** 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3YPLRzFS6ny5hQe76dcLxJcllTEzMBevpw&usqp=CAU)
+**My Inspo:**
+1. The amount of assignments a have due next week (21/3/22), there's **LOTS** ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3YPLRzFS6ny5hQe76dcLxJcllTEzMBevpw&usqp=CAU)
+2. I ***love*** Pooh Bear
+3. Fun Fact: Purple is my favourite colour!
 
 ## The R code which I created it with:
 
