@@ -2,6 +2,11 @@
 
 ![](meme.png)
 
+### About my meme:
+My inspiration for my meme came from the amount of assignments a have due next week (21/3/22),
+there's **LOTS** 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3YPLRzFS6ny5hQe76dcLxJcllTEzMBevpw&usqp=CAU)
+
 ## The R code which I created it with:
 
 ```{r}
