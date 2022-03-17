@@ -8,7 +8,7 @@
 2. I ***love*** Pooh Bear
 3. Fun Fact: Purple is my favourite colour!
 
-I don't know much about memes so i followed a pretty basic picture-text format.
+# I don't know much about memes so i followed a pretty basic picture-text format but added my own flare with a different colour and layout.
 
 ## The R code which I created it with:
 
